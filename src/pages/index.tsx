@@ -11,7 +11,7 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className="">
-        <div className="flex h-[500px] w-[500px] flex-col flex-wrap">
+        <div className="grid h-[500px] w-[500px] flex-col flex-wrap">
           <div className="flex">
             <div>1</div>
             <div>2</div>
